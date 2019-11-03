@@ -1,9 +1,9 @@
-# Data-Foundation-Nanodegree-Projects
+# Data Foundations Nanodegree Projects from the Bertelsmann Data Science Scholarship Challenge 2018/2019
 
 <img src="https://user-images.githubusercontent.com/39020690/68083902-79e2bf80-fdfc-11e9-9fee-c3cb6539f18d.png" width="600">
 
 
-I was thrilled to be accepted into the Bertelsmann Data Science Challenge Course by Udacity in May 2018, and even happier to see my efforts rewarded by being offered a scholarship to the Data Foundations Nanodegree, which I completed while pursuing the Pytorch Scholarship Challenge. It was a really gratifying experience to [graduate in December 2018](https://confirm.udacity.com/23PSUQ56).
+I was thrilled to be accepted into the Bertelsmann Data Science Challenge Course at [Udacity](https://www.udacity.com/) in May 2018, and even happier to see my efforts rewarded by being offered a scholarship to the Data Foundations Nanodegree, which I completed while pursuing the Pytorch Scholarship Challenge. It was a really gratifying experience to [graduate in December 2018](https://confirm.udacity.com/23PSUQ56).
 
 ### Phase 1: solidifying prior knowledge and building strong SQL foundations.
 
