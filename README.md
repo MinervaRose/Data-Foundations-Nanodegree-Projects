@@ -20,5 +20,7 @@ Phase 2 allowed me to make a professional data science use of [Excel skills](htt
 
 <img src="https://user-images.githubusercontent.com/39020690/68084205-8bc66180-fe00-11e9-9388-6d5fc1bbf9e5.png" width="800">
 
+*Feel free to check out my projects in this repository.*
 
+**Students are responsible for their own work. Do not submit my projects as your own as you will be at risk of getting expelled for plagiarism.**
 
