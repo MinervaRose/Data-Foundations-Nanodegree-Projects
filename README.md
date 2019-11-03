@@ -1,6 +1,7 @@
 # Data-Foundation-Nanodegree-Projects
 
-![bertelsmann badge](https://user-images.githubusercontent.com/39020690/68083902-79e2bf80-fdfc-11e9-9fee-c3cb6539f18d.png)
+<img src="https://user-images.githubusercontent.com/39020690/68083902-79e2bf80-fdfc-11e9-9fee-c3cb6539f18d.png" width="600">
+
 
 I was thrilled to be accepted into the Bertelsmann Data Science Challenge Course by Udacity in May 2018, and even happier to see my efforts rewarded by being offered a scholarship to the Data Foundations Nanodegree, which I completed while pursuing the Pytorch Scholarship Challenge. It was a really gratifying experience to [graduate in December 2018](https://confirm.udacity.com/23PSUQ56).
 
@@ -16,12 +17,8 @@ The SQL course was extremely complete for what was supposed to be the challenge 
 
 Phase 2 allowed me to make a professional data science use of [Excel skills](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundations%20Analyze%20Survey%20Data%20Project.xlsx) and [survey analysis](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundation%20Analyze%20Survey.pdf), [practising SQL by investigating a database](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundations%20Query%20Database.pdf), and developing my visualisation skills with Excel and [Tableau](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundation%20Tableau%20Dashboard.pdf).
 
-[document(1).pdf](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/files/3801452/document.1.pdf)
 
-
-
-
-
+<img src="https://user-images.githubusercontent.com/39020690/68084205-8bc66180-fe00-11e9-9388-6d5fc1bbf9e5.png" width="800">
 
 
 
