@@ -27,7 +27,9 @@ Phase 2 allowed me to make a professional data science use of [Excel skills](htt
 Even though I have been more way focused on machine learning than on data science, I have been practising my skills and learning new ones.
 
 [Webscraping the Wikipedia table of the mountains on Venus with Python, Urllib, BeautifulSoup and Pandas](https://github.com/SabrinaPalis/data-science-webscraping-venus)
+
 [Reading Data from the OpenAQ API](https://github.com/SabrinaPalis/data_science_reading_data_OpenAQAPI)
+
 [Webscraping the Wikipedia table of the mountains on the Moon with Python and BeautifulSoup](https://github.com/SabrinaPalis/data_science_webscraping_moon)
 
 
