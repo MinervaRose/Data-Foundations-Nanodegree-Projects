@@ -22,5 +22,14 @@ Phase 2 allowed me to make a professional data science use of [Excel skills](htt
 
 *Feel free to check out my projects in the present repository.*
 
-**Students are responsible for their own work. Do not submit my projects as your own as you will be at risk of getting expelled for plagiarism.**
+### Self-directed projects
+
+Even though I have been more way focused on machine learning than on data science, I have been practising my skills and learning new ones.
+
+[Webscraping the Wikipedia table of the mountains on Venus with Python, Urllib, BeautifulSoup and Pandas](https://github.com/SabrinaPalis/data-science-webscraping-venus)
+[Reading Data from the OpenAQ API](https://github.com/SabrinaPalis/data_science_reading_data_OpenAQAPI)
+[Webscraping the Wikipedia table of the mountains on the Moon with Python and BeautifulSoup](https://github.com/SabrinaPalis/data_science_webscraping_moon)
+
+
+:heavy_exclamation_mark: **Students are responsible for their own work. Do not submit my projects as your own as you will be at risk of getting expelled for plagiarism.**
 
