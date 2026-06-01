@@ -1,37 +1,137 @@
-# Data Foundations Nanodegree Projects from the Bertelsmann Data Science Scholarship Challenge 2018/2019
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/39020690/68083902-79e2bf80-fdfc-11e9-9fee-c3cb6539f18d.png" width="600">
+# 📊 Business Analytics Foundations
 
+### Bertelsmann Data Science Scholarship • Udacity Data Foundations Nanodegree
 
-I was thrilled to be accepted into the Bertelsmann Data Science Challenge Course at [Udacity](https://www.udacity.com/) in May 2018, and even happier to see my efforts rewarded by being offered a scholarship to the Data Foundations Nanodegree, which I completed while pursuing the Pytorch Scholarship Challenge. It was a really gratifying experience to [graduate in December 2018](https://confirm.udacity.com/23PSUQ56).
+<img src="https://user-images.githubusercontent.com/39020690/68083902-79e2bf80-fdfc-11e9-9fee-c3cb6539f18d.png" width="500"/>
 
-### Phase 1: solidifying prior knowledge and building strong SQL foundations.
+![Python](https://img.shields.io/badge/Python-Data_Analysis-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database_Querying-blue?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Data_Visualization-orange?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Business_Analytics-green?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 
-Even though I was already quite seasoned in statistics, having studied and practised both qualitative and quantitative research methods during my Master in Education at the University of Nottingham - using [NVivo](https://www.qsrinternational.com/nvivo/home) and [SPSS](https://www.ibm.com/analytics/spss-statistics-software), I very much appreciated the first part of the course that was dedicated to descriptive statistics. It allowed me to get a better grasp on concepts that I had not really worked on because of the usually small samples I had been encountering until then.
+</div>
 
-The Python course really went back to the basics and helped build up Python skills related to the field.
+---
 
-The SQL course was extremely complete for what was supposed to be the challenge part to the scholarship. I was impressed by how much I learnt such as the key SQL commands, how to filter a table using SQL commands, how to combine data from multiple tables, how to aggregate data and how to clean data using SQL.
+## Overview
 
-### Phase 2: great real life practice.
+This repository preserves projects completed during the Bertelsmann Data Science Scholarship and the Udacity Data Foundations Nanodegree.
 
-Phase 2 allowed me to make a professional data science use of [Excel skills](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundations%20Analyze%20Survey%20Data%20Project.xlsx) and [survey analysis](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundation%20Analyze%20Survey.pdf), [practising SQL by investigating a database](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundations%20Query%20Database.pdf), and developing my visualisation skills with Excel and [Tableau](https://github.com/SabrinaPalis/Data-Foundation-Nanodegree-Projects/blob/master/Data%20Foundation%20Tableau%20Dashboard.pdf).
+The scholarship pathway provided practical experience in:
 
+* Data analysis
+* Business intelligence
+* SQL querying
+* Data visualization
+* Dashboard design
+* Survey analysis
+* Data-driven decision making
 
-<img src="https://user-images.githubusercontent.com/39020690/68084205-8bc66180-fe00-11e9-9388-6d5fc1bbf9e5.png" width="800">
+Although these projects predate my later work in artificial intelligence, deep learning, and AI systems engineering, they illustrate the analytical foundations that continue to inform my work today.
 
-*Feel free to check out my projects in the present repository.*
+---
 
-### Self-directed projects
+## Scholarship Background
 
-Even though I have been more way focused on machine learning than on data science, I have been practising my skills and learning new ones.
+In 2018, I was selected for the Bertelsmann Data Science Scholarship Challenge delivered through Udacity.
 
-[Webscraping the Wikipedia table of the mountains on Venus with Python, Urllib, BeautifulSoup and Pandas](https://github.com/SabrinaPalis/data-science-webscraping-venus)
+Successful completion of the challenge led to a scholarship for the Data Foundations Nanodegree, completed alongside the PyTorch Scholarship Challenge.
 
-[Reading Data from the OpenAQ API](https://github.com/SabrinaPalis/data_science_reading_data_OpenAQAPI)
+This experience strengthened practical skills in statistics, Python, SQL, business analytics, and data visualization while providing hands-on experience with real-world analytical workflows.
 
-[Webscraping the Wikipedia table of the mountains on the Moon with Python and BeautifulSoup](https://github.com/SabrinaPalis/data_science_webscraping_moon)
+---
 
+## Projects
 
-:heavy_exclamation_mark: **Students are responsible for their own work. Do not submit my projects as your own as you will be at risk of getting expelled for plagiarism.**
+### Survey Data Analysis
+
+Analysis of survey data using Excel-based analytical techniques.
+
+**Skills demonstrated**
+
+* Data cleaning
+* Descriptive statistics
+* Survey analysis
+* Business reporting
+
+---
+
+### SQL Database Investigation
+
+Investigation of a relational database using SQL queries to answer business questions and generate actionable insights.
+
+**Skills demonstrated**
+
+* SQL
+* Filtering and aggregation
+* Joins
+* Data exploration
+* Business intelligence
+
+---
+
+### Tableau Dashboard Design
+
+Creation of interactive dashboards to communicate key business metrics and support decision making.
+
+**Skills demonstrated**
+
+* Tableau
+* Dashboard design
+* KPI visualization
+* Data storytelling
+
+---
+
+### Business Analytics Case Studies
+
+A collection of analytical reports focused on:
+
+* Revenue concentration analysis
+* Customer segmentation
+* Marketing performance
+* Campaign evaluation
+* Executive reporting
+
+**Skills demonstrated**
+
+* Data storytelling
+* Business analytics
+* KPI evaluation
+* Decision support
+
+---
+
+## Self-Directed Explorations
+
+Alongside formal coursework, I explored data acquisition and analysis through independent projects.
+
+### Planetary Data Web Scraping
+
+* Venus mountain dataset extraction using Python, BeautifulSoup, urllib, and Pandas
+* Lunar mountain dataset extraction using Python and BeautifulSoup
+
+### Open Data APIs
+
+* Reading and analyzing environmental data through the OpenAQ API
+
+These projects provided additional practice working with external data sources, data collection workflows, and exploratory analysis.
+
+---
+
+## Looking Forward
+
+The analytical foundations developed through these projects later supported work in:
+
+* Machine Learning
+* Deep Learning
+* Reinforcement Learning
+* Computer Vision
+* AI Systems Design
+* Educational Technology
+* Exploratory Computational Research
+
+This repository therefore represents an important early stage in a broader journey from data analysis to artificial intelligence and applied computational research.
 
